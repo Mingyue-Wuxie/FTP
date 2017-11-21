@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const router = express.Router();
 
-const IP = '173.254.225.195';
+const IP = '69.85.85.193';
 const port = 80;
 
 app.use(express.static(__dirname));
